@@ -1,6 +1,6 @@
 # About
 
-`composto-rs` is _supposed_ to be a wayland compositor written in Rust and be configurable using Lua.
+`composto-rs` is _supposed_ to be a simple wayland compositor configurable using Lua.
 
 # Goals
 
